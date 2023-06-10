@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductPromotion</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="write_product_name">Ürün adı yazınız.</string>
+</resources>
